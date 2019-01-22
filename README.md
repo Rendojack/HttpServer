@@ -5,7 +5,7 @@ Just a simple async http server implemented over TCP/IP using only System.Net.So
 - GET processing (without body)
 - 200, 400, 404 http response codes
 
-![](https://github.com/Rendojack/HttpServer/blob/master/pic.png)
+![](https://github.com/Rendojack/HttpServer/blob/master/screenshot.png)
 
 ### How to use:
 - Set root as www or whatever you wish
