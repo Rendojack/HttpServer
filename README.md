@@ -8,7 +8,7 @@ Just a simple async http server implemented over TCP/IP using only System.Net.So
 ![](https://github.com/Rendojack/HttpServer/blob/master/pic.png)
 
 ### How to use:
-- Choose root as www or whatever you wish
+- Set root as www or whatever you wish
 - Type in a server port
 - Start server
 - Open-up a browser
