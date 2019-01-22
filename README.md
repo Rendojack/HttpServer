@@ -1,5 +1,5 @@
 # HttpServer
-Simple async http server implemented over TCP/IP using only System.Net.Sockets.Socket class.
+Just a simple async http server implemented over TCP/IP using only System.Net.Sockets.Socket class.
 
 ### For demonstration purposes only, thus only include few features:
 - GET processing (without body)
